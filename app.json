@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "native-crud",
+    "slug": "native-crud",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "native-crud"
+}
